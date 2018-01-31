@@ -1,0 +1,20 @@
+svg, input {
+  margin: 0 auto 10px;
+  display: block;
+}
+
+svg {
+  margin: 0 auto;
+  padding-left: 80px;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.tick line {
+  stroke : #ccc;
+  stroke-dasharray: 10, 5;
+}
+
+h1 {
+  text-align: center;
+}
